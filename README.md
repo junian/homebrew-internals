@@ -3,7 +3,7 @@
 ## How to use
 
 ```shell
-brew tap junian/homebrew-internal-apps
+brew tap junian/homebrew-internals
 brew install <formula>
 ```
 

@@ -4,7 +4,7 @@ cask "microsoft-office-ltsc-vl-serializer@2024" do
   version "2024"
   sha256 "083b505d9ac880629d7ef560e2baaaf59343721ac7e892be737a2403d7a63de1"
 
-  url "https://brew.gl.junian.net/Apps/Microsoft_Office_LTSC_#{version}_VL_Serializer.pkg"
+  url "https://brew.zt.junian.net/Apps/Microsoft_Office_LTSC_#{version}_VL_Serializer.pkg"
   name "Microsoft Office LTSC 2024 Volume License (VL) Serializer"
   desc "Microsoft Office LTSC 2024 Volume License (VL) Serializer"
   homepage "https://learn.microsoft.com/en-us/deployoffice/mac/volume-license-serializer"

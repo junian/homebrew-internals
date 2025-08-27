@@ -2,7 +2,7 @@ cask "fantasian" do
   version "2.0.0"
   sha256 "989ef5fe3845e46ab48be83bd10ae9efb3bb6cef13802b459c78099d8ba04c8d"
 
-  url "https://brew.gl.junian.net/Games/FANTASIAN.v#{version}.dmg"
+  url "https://brew.zt.junian.net/Games/FANTASIAN.v#{version}.dmg"
   name "FANTASIAN"
   desc "Diorama Adventure RPG"
   homepage "https://www.mistwalkercorp.com/"

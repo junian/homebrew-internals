@@ -2,7 +2,7 @@ cask "dropdmg@latest" do
   version "3.6.8"
   sha256 "175a8ec7c2fe4035e8e74aaecb311d2831f769209695c3c353b52cd82152ef1b"
 
-  url "https://brew.gl.junian.net/Apps/DropDMG.v#{version}.dmg"
+  url "https://brew.zt.junian.net/Apps/DropDMG.v#{version}.dmg"
   name "DropDMG"
   desc "Create DMGs and other archives"
   homepage "https://c-command.com/dropdmg/"

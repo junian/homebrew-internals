@@ -9,7 +9,7 @@ cask "pdf-expert@latest" do
 
   auto_updates true
   conflicts_with cask: "pdf-expert"
-  depends_on macos: ">= :high_sierra"
+  # depends_on macos: ">= :high_sierra"
 
   app "PDF Expert.app"
 end

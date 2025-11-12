@@ -12,7 +12,7 @@ cask "nitro-pdf-pro@latest" do
     regex(/href=.*?Retail_(\d+(?:\.\d+)*)\.dmg/i)
   end
 
-  depends_on macos: ">= :sierra"
+  # depends_on macos: ">= :sierra"
 
   app "Nitro PDF Pro.app"
 

@@ -1,4 +1,4 @@
-cask "screen-studio-activation-tool" do
+cask "screen-studio-activation-tool@2" do
   version "2.25.33"
   sha256 "bfbbf0a50636fbeda8ca66983eb9047686bb3d2dcfa82c20762f48c86d05c945"
 

@@ -1,4 +1,4 @@
-# homebrew-internal-apps
+# homebrew-internals
 
 ## How to use
 

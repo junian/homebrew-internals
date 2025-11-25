@@ -2,7 +2,7 @@ cask "upwork-app" do
   version "5.8.0.41,f0de03505cc349f2"
   sha256 "b7304b2ae7caab5775ef1a3f7021d5fb97a456fcd17a46d7e46c4152009eea67"
 
-  url "https://upwork-usw2-desktopapp.upwork.com/binaries/v#{version.csv.first.dots_to_underscores}_#{version.csv.second}/Upwork.dmg",
+  url "https://brew.zt.junian.net/Apps/Upwork.v#{version.csv.first}.dmg",
       user_agent: :browser
   name "Upwork"
   desc "Work marketplace for freelancing"
